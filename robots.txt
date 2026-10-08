@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minhashussainwp-del.github.io/scribd-viewer/sitemap.xml
